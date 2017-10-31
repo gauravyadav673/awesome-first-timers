@@ -9,7 +9,7 @@ You can start by contributing to this awesome list, follow these simple steps to
 1. Installation of required tools:
 * git
 * any IDE of your choice (for ex. sublime text and atom)
-
+//any ide
 ### Installing git:
 Ubuntu:  
 ```sudo apt-get install git```  
